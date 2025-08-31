@@ -92,13 +92,15 @@
     userInput.value = '';
 
     try {
-const response = await fetch('https://aa993d93-7a55-492b-8db4-c946f1faaa02-00-25zptdmdfuo4c.spock.replit.dev/chat', {
-  method: 'POST',
-  headers: {
-    'Content-Type': 'application/json'
-  },
-  body: JSON.stringify({ message })
-});
+      const response = await fetch(
+        'https://aa993d93-7a55-492b-8db4-c946f1faaa02-00-25zptdmdfuo4c.spock.replit.dev/chat', {
+          method: 'POST',
+          headers: {
+            'Content-Type': 'application/json'
+          },
+          body: JSON.stringify({ message })
+        }
+      );
 
       const data = await response.json();
       const botReply = data.reply || 'No reply from server.';
