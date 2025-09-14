@@ -7,33 +7,46 @@ Need to learn what aspects of this idea would need to be more efficient, how to 
 I can test the effectiveness of the product by utilizing surveys and getting feedback from people
 
 ## Introduction
-C  omputer-aided design (CAD), is an important tool for many fields such as engineering, architecture, and product design. However, it can be challenging to learn how to use CAD software, since it requires a lot of training, technical knowledge, and a lot of time for practice to be familiarized and comfortable with the tools (Gutiérrez de Ravé, 2025). Since beginners may have limited time or little to no experience, this can be discouraging. Artificial Intelligence tools may offer solutions. According to Choi (2025), new AI tools can be used in many ways and be leveraged to assist with CAD design workflow, but that these tools are still complicated and unproven. AI has shown potential to enhance and simplify various aspects of design. For example, deep generative models can translate high-level design ideas to usable CAD models, requiring little user input, which can give users a starting point for their projects (Wu 2021). This can help guide users without needing to master tools. In the field of structural design, generative AI has already helped automate early-stage tasks, suggesting similar tools could simplify CAD processes (Liao 2025). 
-
+<p style="text-indent: 30px;">
+Computer-aided design (CAD), is an important tool for many fields such as engineering, architecture, and product design. However, it can be challenging to learn how to use CAD software, since it requires a lot of training, technical knowledge, and a lot of time for practice to be familiarized and comfortable with the tools (Gutiérrez de Ravé, 2025). Since beginners may have limited time or little to no experience, this can be discouraging. Artificial Intelligence tools may offer solutions. According to Choi (2025), new AI tools can be used in many ways and be leveraged to assist with CAD design workflow, but that these tools are still complicated and unproven. AI has shown potential to enhance and simplify various aspects of design. For example, deep generative models can translate high-level design ideas to usable CAD models, requiring little user input, which can give users a starting point for their projects (Wu 2021). This can help guide users without needing to master tools. In the field of structural design, generative AI has already helped automate early-stage tasks, suggesting similar tools could simplify CAD processes (Liao 2025). 
+</p>
+<p style="text-indent: 30px;">
 There are also studies that show how AI changed the way designers think and work during the first phases of a project. AI can help as a creative co-designer, which can offer new suggestions and help users explore different ideas (Saadi 2023). This collaboration can help beginners think about ways to change their project while making progress to their final design. Other studies have shown that AI in CAD is evolving to shift the role of users from passive operators to active collaborators, creating an engaging experience (Zou 2024). These studies demonstrate that AI is still complex, but using it as a tutor, there is room to leverage what AI is good at, and it can play a role in helping beginners with CAD. However, these tools still need to be explored to see how they can be designed and tested for learners that are new. Through this project, I seek to explore how ChatGPT can be used as an assistant to simplify the design process for beginners learning to use Blender to make CAD. To test the effectiveness, user feedback through surveys was collected. The final goal is to show how AI can guide people and be a tool and helpful partner in CAD design.
 **Possible final research question: I seek to explore how ChatGPT can guide users as an assistant to be a helpful partner and simplify the design process of new users learning to use Blender to create CAD.**
+</p>
 
 ## Methodology:
+<p style="text-indent: 30px;">
 **Choosing a system**
   Several methods were considered to find the most efficient way to help new users with CAD. This includes softwares such as Fusion, OnShape, AutoCAD, SketchUP, and Solidworks, and AI’s like Gemini and Copilot. The method I chose for this project was to use the capabilities of ChatGPT, an AI, with Blender, a CAD and modeling software, since both are very accessible, and it's a flexible approach for beginners to engage with CAD design. Unlike AI-integrated CAD platforms which have subscription fees or need special knowledge to understand, using these combines an open-source 3D modeling tool, Blender, with a widely available AI chatbot, ChatGPT. By using ChatGPT as a tutor, users can receive guidance, make code, ask AI about errors, and gain more of an understanding for scripting logic with Blender's python API. The upside is that all of this requires no prior programming experience.
-  
+</p>
+<p style="text-indent: 30px;">
   This method supports iterative learning, a learning process that involves repeated cycles of trying, evaluating, and refining, which can be very beneficial for beginners. Instead of just relying on fixed tutorials and templates, users can constantly ask questions, receive answers specific to what they're working on, and request specific scripts based on design goals. It also helps with experimentation, allowing them to develop creative confidence. It stimulates a teaching environment, and can help make CAD more approachable, interactive, and efficient.
+</p>
 
 **Developing a process**
+<p style="text-indent: 30px;">
   I developed a process that shows how users can interact with ChatGPT as a tutor to help them work with CAD in Blender. Instead of just generating models, ChatGPT is used as a narrative process tutor that supports users to understand the concepts of how they are making the models. The purpose of ChatGPT is to explain, guide, and answer questions during the modeling process. This helps users build skills and confidence when working with Blender's python API. This approach mainly focuses on the idea of learning something by actually making it.
-
+</p>
+<p style="text-indent: 30px;">
   To guide the user experience, several prompt strategies were used to help  users learn rather than result-focused generation. The goal was to make ChatGPT act like a teacher, explaining code, offering feedback, and guiding the user through the problems that they encounter.
 **I made a survey that would…(still have to write)**
-
+</p>
+<p style="text-indent: 30px;">
 **How do I do it?  Prompting examples:**
 **Some examples of prompts that worked include:** 
   "Can you explain what this blender python code does, line by line?", "How can I modify this code to make the object wider?", "What is the difference between scaling and resizing in Blender?", "Why am I getting this error in blender?", "Can you help me make this object step by step?".
-
+</p>
+<p style="text-indent: 30px;">
 **Some prompts that didn't work well were:**
   "What script do I use to make a table in Blender like IKEA's LACK?", "What's wrong with this script?" (user pastes 50+ unformatted lines of code), "How do I use modifiers in Blender?", "How can I make a complex mechanical object with gears and joins user Blender Python?", "Can you give me a script that uses geometry nodes?" These prompts failed since they lacked enough technical detail or context, involved visual issues, and combined multiple concepts. 
-
+</p>
+<p style="text-indent: 30px;">
   While ChatGPT was effective in teaching some concepts in a step by step process, certain prompts showed its limitations. This was especially shown when users asked overly broad or highly specific questions, such as not having enough technical detail or context, and combining too many concepts. These cases show how it's important to learn how to ask effective, focused prompts when using ChatGPT as a tutor.
-
+</p>
+<p style="text-indent: 30px;">
   This method was successful since instead of copying full scripts, users were able to ask questions while making their design at their own pace, get explanations, understand what they were doing, and tweak their code based on feedback. This created an interactive, personalized, and educational process.
+</p>
 
 **What did I get?  Description / examples from that process. Include the responses that GPT gave, examples (screenshots, files)**
 **Link to tutorial, shown on Website**
