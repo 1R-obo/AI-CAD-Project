@@ -1,6 +1,6 @@
 # How ChatGPT can be used as an assistant to simplify the design process for beginners learning to use CAD in Blender.
 
-## Project Description 
+## Abstract 
 Project Description (will become the Abstract later on): 
 It can help introduce users to this topic that are already interested but are unsure how to start, making it easy to use, accessible, and also simple to understand
 Need to learn what aspects of this idea would need to be more efficient, how to present the idea as a product, possible experiments to support the purpose, and what to narrow the idea to.
@@ -25,11 +25,10 @@ I can test the effectiveness of the product by utilizing surveys and getting fee
 
 **Prompting examples:**
 
-&nbsp;&nbsp;&nbsp;&nbsp;*Some examples of prompts that worked include: "Can you explain what this blender python code does, line by line?", "How can I modify this code to make the object wider?", "What is the difference between scaling and resizing in Blender?", "Why am I getting this error in blender?", "Can you help me make this object step by step?".
+&nbsp;&nbsp;&nbsp;&nbsp;Some examples of prompts that worked include: "Can you explain what this blender python code does, line by line?", "How can I modify this code to make the object wider?", "What is the difference between scaling and resizing in Blender?", "Why am I getting this error in blender?", "Can you help me make this object step by step?".
 
-**Some prompts that didn't work well were:** 
 
-&nbsp;&nbsp;&nbsp;&nbsp;"What script do I use to make a table in Blender like IKEA's LACK?", "What's wrong with this script?" (user pastes 50+ unformatted lines of code), "How do I use modifiers in Blender?", "How can I make a complex mechanical object with gears and joins user Blender Python?", "Can you give me a script that uses geometry nodes?" These prompts failed since they lacked enough technical detail or context, involved visual issues, and combined multiple concepts. 
+&nbsp;&nbsp;&nbsp;&nbsp;Some prompts that didn't work well were: "What script do I use to make a table in Blender like IKEA's LACK?", "What's wrong with this script?" (user pastes 50+ unformatted lines of code), "How do I use modifiers in Blender?", "How can I make a complex mechanical object with gears and joins user Blender Python?", "Can you give me a script that uses geometry nodes?" These prompts failed since they lacked enough technical detail or context, involved visual issues, and combined multiple concepts. 
 
 &nbsp;&nbsp;&nbsp;&nbsp;While ChatGPT was effective in teaching some concepts in a step by step process, certain prompts showed its limitations. This was especially shown when users asked overly broad or highly specific questions, such as not having enough technical detail or context, and combining too many concepts. These cases show how it's important to learn how to ask effective, focused prompts when using ChatGPT as a tutor.
 
@@ -54,7 +53,7 @@ Consider potential limitations and ethical implications
 ## Conclusion: N/A (for now)
 
 
-## Works Cited:
+## References:
 **Choi, Jiin, et al.** “Toward AI-Driven Multimodal Interfaces for Industrial CAD Modeling.” *arXiv:2503.16824*, arXiv, 21 Mar. 2025. arXiv.org, [https://doi.org/10.48550/arXiv.2503.16824](https://doi.org/10.48550/arXiv.2503.16824).
 
 **Daareyni, Amirmohammad, et al.** “Generative AI Meets CAD: Enhancing Engineering Design to Manufacturing Processes with Large Language Models.” *The International Journal of Advanced Manufacturing Technology*, June 2025. Springer Link, [https://doi.org/10.1007/s00170-025-15830-2](https://doi.org/10.1007/s00170-025-15830-2).
