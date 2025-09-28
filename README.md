@@ -16,8 +16,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;**Developing a process** The process that was developed shows how users can interact with ChatGPT as a tutor to help them work with CAD in Blender. Instead of just generating models, ChatGPT is used as a narrative process tutor that supports users to understand the concepts of how they are making the models. The purpose of ChatGPT is to explain, guide, and answer questions during the modeling process. This helps users build skills and confidence when working with Blender's python API. This approach mainly focuses on the idea of learning something by actually making it.
 
-&nbsp;&nbsp;&nbsp;&nbsp;To guide the user experience, several prompt strategies were used to help  users learn rather than result-focused generation. The goal was to make ChatGPT act like a teacher, explaining code, offering feedback, and guiding the user through the problems that they encounter.
-**I made a survey that would…(still have to write)**
+&nbsp;&nbsp;&nbsp;&nbsp;To guide the user experience, several prompt strategies were used to help  users learn rather than result-focused generation. The goal was to make ChatGPT act like a teacher, explaining code, offering feedback, and guiding the user through the problems that they encounter. A survey was made to provide evidence of the method working, and was sent out to 10 people.
 
 **Prompting examples:**
 
