@@ -16,9 +16,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;**Developing a process** The process that was developed shows how users can interact with ChatGPT as a tutor to help them work with CAD in Blender. Instead of just generating models, ChatGPT is used as a narrative process tutor that supports users to understand the concepts of how they are making the models. The purpose of ChatGPT is to explain, guide, and answer questions during the modeling process. This helps users build skills and confidence when working with Blender's python API. This approach focuses on the idea of learning something by actually making it.
 
-&nbsp;&nbsp;&nbsp;&nbsp;To guide the user experience, several prompt strategies were used to help  users learn rather than result-focused generation. The goal was to make ChatGPT act like a teacher, explaining code, offering feedback, and guiding the user through the problems that they encounter. A survey was made to provide evidence of the method working, and was sent out to 10 people.
-
-[Survey:](https://docs.google.com/forms/d/1NAYDoXZS_5XJcAs88DwznVunbJHkGEYMSh9spMfpjtU/edit#responses)
+&nbsp;&nbsp;&nbsp;&nbsp;To guide the user experience, several prompt strategies were used to help  users learn rather than result-focused generation. The goal was to make ChatGPT act like a teacher, explaining code, offering feedback, and guiding the user through the problems that they encounter. A [survey]([https://docs.google.com/forms/d/1NAYDoXZS_5XJcAs88DwznVunbJHkGEYMSh9spMfpjtU/edit#responses](https://docs.google.com/forms/d/e/1FAIpQLSdRAdcEXvMg_9BrP4t7v66OidAXmCUhJ-xgeK0DHVUMyDoN1g/viewform?usp=sharing&ouid=112338026837177971489)) was made to provide evidence of the method working, and was sent out to 10 people.
 
 **Prompting examples:**
 
@@ -31,9 +29,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;This method was successful since instead of copying full scripts, users were able to ask questions while making their design at their own pace, get explanations, understand what they were doing, and tweak their code based on feedback. This created an interactive, personalized, and educational process.
 
-&nbsp;&nbsp;&nbsp;&nbsp;When choosing which method to use, prompts were tested to determine which produced the best responses and were most useful in Blender. The responses of the chosen method are included in the tutorial, located on the linked website.
-
-**https://1r-obo.github.io/AI-CAD-Project/**
+&nbsp;&nbsp;&nbsp;&nbsp;When choosing which method to use, prompts were tested to determine which produced the best responses and were most useful in Blender. The responses of the chosen method are included in the tutorial, located on the linked [website](https://1r-obo.github.io/AI-CAD-Project/).
 
 ## Results:
 &nbsp;&nbsp;&nbsp;&nbsp;A survey was distributed to participants. The data showed consistent improvement, with overall positive feedback regarding the tutorial as well as the experience of working with AI. The target goal for object-making time was 30 minutes or less, and every participant met the goal, with time ranging from 7 to 30 minutes. Most participants began with a self-assessed experience level of 1 from a scale of 1 through 5, and ended with a confidence level ranging 3 to 5 on a scale of 1 through 5. Responses indicated that the tutorial was helpful and provided a necessary starting point; without it, learning CAD would feel difficult and discouraging.
