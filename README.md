@@ -39,9 +39,12 @@
 ## Analysis/Discussion: 
 &nbsp;&nbsp;&nbsp;&nbsp;From the survey, AI as a tutor was shown to be in the participants’ modeling. Regarding ethics, the survey asked users: “What is your opinion on using ChatGPT as a tutor? Do you feel that relying on it for learning feels like 'cheating'? What are your thoughts on the ethical implications of using AI as a learning aid?”. 
 
-Some responses include: 
+Some responses include:
+
 &nbsp;&nbsp;- “Using chatgpt is fine as long as you are using it as a learning look. As for ethics, it's just another way to learn skills so I don't think it qualifies as cheating”
+
 &nbsp;&nbsp;- “I feel like it helps and does not feel like cheating since you’re leveraging additional information to learn. Ethically, if it’s allowed then it should be good to use, however, if we are told not to use it, then it would be unethical.”
+
 &nbsp;&nbsp;- “I think that Chatgpt can be used in either good or bad ways and these ways could both contribute to our knowledge and help us in things. I think that its not really cheating if your just asking it for help on explaining how to do something.”
 
 
