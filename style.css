@@ -22,6 +22,7 @@ nav ul {
   padding: 0;
   display: flex;
   gap: 1em;
+  text-align: center;
 }
 
 nav a {
@@ -75,8 +76,8 @@ footer {
 .step-with-image h3 {
   margin-bottom: 0.5em;
   color: #333;
-  font-weight: bold
-  text-align: center;;
+  font-weight: bold;
+  text-align: center;
 }
 
 /* images with borders + shadows */
