@@ -99,16 +99,6 @@ section h2 {
   margin-bottom: 1.5em;
 }
 
-/* Steps in tutorial centered */
-#tutorial p {
-  text-align: left;
-}
-
-/* Tutorial setup line left-aligned */
-#tutorial h3 {
-  text-align: center;
-}
-
 /* Try It Yourself links left-aligned */
 #try p, #try ul {
   text-align: left;
@@ -150,4 +140,14 @@ section h2 {
 
 #step-images .step-with-image h3 {
   text-align: center !important;
+}
+
+/* Steps in tutorial centered */
+#tutorial p {
+  text-align: left;
+}
+
+/* Tutorial setup line left-aligned */
+#tutorial h3 {
+  text-align: center;
 }
