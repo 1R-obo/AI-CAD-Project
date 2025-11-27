@@ -26,20 +26,23 @@ header h1 {
 nav ul {
   list-style: none;
   padding: 0;
+  margin: 0;
   display: flex;
-  justify-content: center; /* center the nav horizontally */
-  gap: 1em;               /* horizontal spacing between links */
+  justify-content: center;  /* center the whole nav */
+  align-items: center;
 }
 
 nav li {
   position: relative;
-  padding: 0 0.5em;      /* spacing around links for separator */
+  display: flex;
+  align-items: center;
 }
 
+/* Add separator after every item except last */
 nav li:not(:last-child)::after {
-  content: "|";           /* add vertical separator after all but last item */
-  color: #0ff;            /* same color as links */
-  margin-left: 0.5em;     /* space between link text and separator */
+  content: "|";
+  color: #0ff;
+  margin: 0 1em;  /* equal space on both sides of the bar */
 }
 
 nav a {
