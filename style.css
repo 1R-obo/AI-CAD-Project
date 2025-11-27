@@ -28,26 +28,26 @@ nav ul {
   padding: 0;
   margin: 0;
   display: flex;
-  justify-content: center;  /* center the whole nav */
+  justify-content: center; /* center the nav horizontally */
   align-items: center;
+  gap: 0; /* remove previous gap */
 }
 
 nav li {
-  position: relative;
-  display: flex;
+  display: inline-flex;
   align-items: center;
 }
 
-/* Add separator after every item except last */
-nav li:not(:last-child)::after {
-  content: "|";
+nav li + li::before {
+  content: "|";       /* add separator only before every li except the first */
   color: #0ff;
-  margin: 0 1em;  /* equal space on both sides of the bar */
+  margin: 0 1em;      /* equal space around the bar */
 }
 
 nav a {
   color: #0ff;
   text-decoration: none;
+  padding: 0.2em 0;   /* optional: a little padding top/bottom */
 }
 
 main {
