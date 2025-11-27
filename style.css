@@ -101,12 +101,12 @@ section h2 {
 
 /* Steps in tutorial centered */
 #tutorial p {
-  text-align: center;
+  text-align: left;
 }
 
 /* Tutorial setup line left-aligned */
 #tutorial h3 {
-  text-align: left;
+  text-align: center;
 }
 
 /* Try It Yourself links left-aligned */
