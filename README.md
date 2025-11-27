@@ -95,15 +95,15 @@ Future research could focus on enhancing AI’s ability to understand specific c
 ## References:
 **Choi, Jiin, et al.** “Toward AI-Driven Multimodal Interfaces for Industrial CAD Modeling.” *arXiv:2503.16824*, arXiv, 21 Mar. 2025. arXiv.org, [https://doi.org/10.48550/arXiv.2503.16824](https://doi.org/10.48550/arXiv.2503.16824).
 
-**Daareyni, Amirmohammad, et al.** “Generative AI Meets CAD: Enhancing Engineering Design to Manufacturing Processes with Large Language Models.” *The International Journal of Advanced Manufacturing Technology*, June 2025. Springer Link, [https://doi.org/10.1007/s00170-025-15830-2](https://doi.org/10.1007/s00170-025-15830-2).
+**Daareyni, Amirmohammad, et al.** “Generative AI Meets CAD: Enhancing Engineering Design to Manufacturing Processes with Large Language Models.” *The International Journal of &nbsp;&nbsp;&nbsp;&nbsp;Advanced Manufacturing Technology*, June 2025. Springer Link, [https://doi.org/10.1007/s00170-025-15830-2](https://doi.org/10.1007/s00170-025-15830-2).
 
 **Dessai, Kissan, et al.** “Improving Learning Outcome through Iterative Teaching/Learning Methodology.” *ResearchGate*, [https://www.researchgate.net/publication/315885389_Improving_Learning_Outcome_through_Iterative_TeachingLearning_Methodology](https://www.researchgate.net/publication/315885389_Improving_Learning_Outcome_through_Iterative_TeachingLearning_Methodology). 
 
 **“Generative AI Design for Building Structures.”** *Automation in Construction*, vol. 157, Jan. 2024, p. 105187. ScienceDirect, [https://doi.org/10.1016/j.autcon.2023.105187](https://doi.org/10.1016/j.autcon.2023.105187).
 
-**Gutiérrez de Ravé, Simón, et al.** “Enhancing Efficiency and Creativity in Mechanical Drafting: A Comparative Study of General-Purpose CAD Versus Specialized Toolsets.” *Applied System Innovation*, vol. 8, no. 3, June 2025, p. 74. MDPI, [https://doi.org/10.3390/asi8030074](https://doi.org/10.3390/asi8030074).
+**Gutiérrez de Ravé, Simón, et al.** “Enhancing Efficiency and Creativity in Mechanical Drafting: A Comparative Study of General-Purpose CAD Versus Specialized Toolsets.” *Applied &nbsp;&nbsp;&nbsp;&nbsp;System Innovation*, vol. 8, no. 3, June 2025, p. 74. MDPI, [https://doi.org/10.3390/asi8030074](https://doi.org/10.3390/asi8030074).
 
-**Li, Kun-Ying, et al.** “Generative AI and CAD Automation for Diverse and Novel Mechanical Component Designs under Data Constraints.” *Discover Applied Sciences*, vol. 7, no. 4, Apr. 2025, pp. 1–21. Springer Link, [https://doi.org/10.1007/s42452-025-06833-5](https://doi.org/10.1007/s42452-025-06833-5).
+**Li, Kun-Ying, et al.** “Generative AI and CAD Automation for Diverse and Novel Mechanical Component Designs under Data Constraints.” *Discover Applied Sciences*, vol. 7, no. 4, Apr. &nbsp;&nbsp;&nbsp;&nbsp;2025, pp. 1–21. Springer Link, [https://doi.org/10.1007/s42452-025-06833-5](https://doi.org/10.1007/s42452-025-06833-5).
 
 **“MLCAD: A Survey of Research in Machine Learning for CAD Keynote Paper.”** *ResearchGate*, [https://doi.org/10.1109/TCAD.2021.3124762](https://doi.org/10.1109/TCAD.2021.3124762).
 
@@ -111,11 +111,11 @@ Future research could focus on enhancing AI’s ability to understand specific c
 
 **Regenwetter, Lyle, et al.** “Deep Generative Models in Engineering Design: A Review.” *arXiv:2110.10863*, arXiv, 16 Mar. 2022. arXiv.org, [https://doi.org/10.48550/arXiv.2110.10863](https://doi.org/10.48550/arXiv.2110.10863).
 
-**Saadi, Jana I., and Maria C. Yang.** “Generative Design: Reframing the Role of the Designer in Early-Stage Design Process.” *Journal of Mechanical Design*, vol. 145, no. 4, Apr. 2023. ASME Digital Collection, [https://doi.org/10.1115/1.4056799](https://doi.org/10.1115/1.4056799).
+**Saadi, Jana I., and Maria C. Yang.** “Generative Design: Reframing the Role of the Designer in Early-Stage Design Process.” *Journal of Mechanical Design*, vol. 145, no. 4, Apr. &nbsp;&nbsp;&nbsp;&nbsp;2023. ASME Digital Collection, [https://doi.org/10.1115/1.4056799](https://doi.org/10.1115/1.4056799).
 
 **Wu, Rundi, et al.** “DeepCAD: A Deep Generative Network for Computer-Aided Design Models.” *arXiv:2105.09492*, arXiv, 16 Aug. 2021. arXiv.org, [https://doi.org/10.48550/arXiv.2105.09492](https://doi.org/10.48550/arXiv.2105.09492).
 
-**Xu, Xiang, et al.** “SkexGen: Autoregressive Generation of CAD Construction Sequences with Disentangled Codebooks.” *arXiv:2207.04632*, arXiv, 11 July 2022. arXiv.org, [https://doi.org/10.48550/arXiv.2207.04632](https://doi.org/10.48550/arXiv.2207.04632).
+**Xu, Xiang, et al.** “SkexGen: Autoregressive Generation of CAD Construction Sequences with Disentangled Codebooks.” *arXiv:2207.04632*, arXiv, 11 July 2022. arXiv.org, &nbsp;&nbsp;&nbsp;&nbsp;[https://doi.org/10.48550/arXiv.2207.04632](https://doi.org/10.48550/arXiv.2207.04632).
 
 **Zhang, Licheng, et al.** “Large Language Models for Computer-Aided Design: A Survey.” *arXiv:2505.08137*, arXiv, 13 May 2025. arXiv.org, [https://doi.org/10.48550/arXiv.2505.08137](https://doi.org/10.48550/arXiv.2505.08137).
 
