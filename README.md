@@ -97,6 +97,8 @@ Future research could focus on enhancing AI’s ability to understand specific c
 
 **Daareyni, Amirmohammad, et al.** “Generative AI Meets CAD: Enhancing Engineering Design to Manufacturing Processes with Large Language Models.” *The International Journal of Advanced Manufacturing Technology*, June 2025. Springer Link, [https://doi.org/10.1007/s00170-025-15830-2](https://doi.org/10.1007/s00170-025-15830-2).
 
+**Dessai, Kissan, et al.** “Improving Learning Outcome through Iterative Teaching/Learning Methodology.” *ResearchGate*, [https://www.researchgate.net/publication/315885389_Improving_Learning_Outcome_through_Iterative_TeachingLearning_Methodology](https://www.researchgate.net/publication/315885389_Improving_Learning_Outcome_through_Iterative_TeachingLearning_Methodology). 
+
 **“Generative AI Design for Building Structures.”** *Automation in Construction*, vol. 157, Jan. 2024, p. 105187. ScienceDirect, [https://doi.org/10.1016/j.autcon.2023.105187](https://doi.org/10.1016/j.autcon.2023.105187).
 
 **Gutiérrez de Ravé, Simón, et al.** “Enhancing Efficiency and Creativity in Mechanical Drafting: A Comparative Study of General-Purpose CAD Versus Specialized Toolsets.” *Applied System Innovation*, vol. 8, no. 3, June 2025, p. 74. MDPI, [https://doi.org/10.3390/asi8030074](https://doi.org/10.3390/asi8030074).
@@ -104,8 +106,6 @@ Future research could focus on enhancing AI’s ability to understand specific c
 **Li, Kun-Ying, et al.** “Generative AI and CAD Automation for Diverse and Novel Mechanical Component Designs under Data Constraints.” *Discover Applied Sciences*, vol. 7, no. 4, Apr. 2025, pp. 1–21. Springer Link, [https://doi.org/10.1007/s42452-025-06833-5](https://doi.org/10.1007/s42452-025-06833-5).
 
 **“MLCAD: A Survey of Research in Machine Learning for CAD Keynote Paper.”** *ResearchGate*, [https://doi.org/10.1109/TCAD.2021.3124762](https://doi.org/10.1109/TCAD.2021.3124762).
-
-**Dessai, Kissan, et al.** “Improving Learning Outcome through Iterative Teaching/Learning Methodology.” *ResearchGate*, [https://www.researchgate.net/publication/315885389_Improving_Learning_Outcome_through_Iterative_TeachingLearning_Methodology](https://www.researchgate.net/publication/315885389_Improving_Learning_Outcome_through_Iterative_TeachingLearning_Methodology). 
 
 **Regassa Hunde, Bonsa, and Abraham Debebe Woldeyohannes.** “Future Prospects of Computer-Aided Design (CAD) – A Review from the Perspective of Artificial Intelligence (AI), Extended Reality, and 3D Printing.” *Results in Engineering*, vol. 14, June 2022, p. 100478. ScienceDirect, [https://doi.org/10.1016/j.rineng.2022.100478](https://doi.org/10.1016/j.rineng.2022.100478).
 
