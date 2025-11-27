@@ -39,9 +39,6 @@
 | **Example Low-Poly Tree 1** | **Example Low-Poly Tree 2** | **Example Low-Poly Tree 3** |
 |-----------------------------|-----------------------------|-----------------------------|
 | <img src="https://raw.githubusercontent.com/1R-obo/AI-CAD-Project/main/images/lowpolytree1.jpg" width="300"/> | <img src="https://raw.githubusercontent.com/1R-obo/AI-CAD-Project/main/images/lowpolytree2.png" width="300"/> | <img src="https://raw.githubusercontent.com/1R-obo/AI-CAD-Project/main/images/lowpolytree3.PNG" width="300"/> |
-| **Example Low-Poly Tree 1** | **Example Low-Poly Tree 2** | **Example Low-Poly Tree 3** |
-
-
 
 ## Analysis: 
 &nbsp;&nbsp;&nbsp;&nbsp;From the survey, AI as a tutor was shown to be in the participants’ modeling. Regarding ethics, the survey asked users: “What is your opinion on using ChatGPT as a tutor? Do you feel that relying on it for learning feels like 'cheating'? What are your thoughts on the ethical implications of using AI as a learning aid?”. 
