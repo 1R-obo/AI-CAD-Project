@@ -79,7 +79,12 @@ Investigating the ethical perspectives on AI use across different demographics, 
 Future research could focus on enhancing AI’s ability to understand specific contexts and provide more personalized and adaptive tutoring experiences based on individual learning styles.
 
 
-## Conclusion: N/A (for now)
+## Conclusion:
+&nbsp;&nbsp;&nbsp;&nbsp;This study demonstrates the potential of ChatGPT as an effective assistant in simplifying the design process for beginners learning to use CAD in Blender. By integrating AI into the learning workflow, users were able to efficiently complete a low-poly tree model, under a set goal of 30 minutes. This was possible by gaining improved confidence and understanding of CAD concepts, through the tutorial and the experience with ChatGPT. The interactiveness of ChatGPT, acting as a tutor that provides guidance, explanations, and error troubleshooting, enabled users to learn at their own pace, and gain a deeper insight to the tools and features in Blender.
+
+&nbsp;&nbsp;&nbsp;&nbsp;The results of the survey reveal AI assisted learning is beneficial in one's journey to learn CAD, especially a beginner, offering a more accessible and supportive learning environment. Ethically, the use of ChatGPT was accepted by users, while used appropriately and as a learning tool. This suggests AI can be a valuable educational resource, if used responsibly and in a structured manner.
+
+&nbsp;&nbsp;&nbsp;&nbsp;Looking forward, other research could explore AI-powered educational tools and the long term impact of AI on users' learning habits. Additionally, improvements in the AI's ability to provide effective guidance could further improve the learning experience. Ultimately, this project supports the idea that AI can play a role in making complex designs for CAD more apprachable and easier to learn for beginners.
 
 
 ## References:
