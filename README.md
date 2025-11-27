@@ -68,9 +68,9 @@ Some responses include:
 
 **Li, Kun-Ying, et al.** “Generative AI and CAD Automation for Diverse and Novel Mechanical Component Designs under Data Constraints.” *Discover Applied Sciences*, vol. 7, no. 4, Apr. 2025, pp. 1–21. Springer Link, [https://doi.org/10.1007/s42452-025-06833-5](https://doi.org/10.1007/s42452-025-06833-5).
 
-**“MLCAD: A Survey of Research in Machine Learning for CAD Keynote Paper.”** *ResearchGate*. [https://doi.org/10.1109/TCAD.2021.3124762](https://doi.org/10.1109/TCAD.2021.3124762).
+**“MLCAD: A Survey of Research in Machine Learning for CAD Keynote Paper.”** *ResearchGate*, [https://doi.org/10.1109/TCAD.2021.3124762](https://doi.org/10.1109/TCAD.2021.3124762).
 
-**“(PDF) Improving Learning Outcome through Iterative Teaching/Learning Methodology.”** *ResearchGate*. [https://www.researchgate.net/publication/315885389_Improving_Learning_Outcome_through_Iterative_TeachingLearning_Methodology](https://www.researchgate.net/publication/315885389_Improving_Learning_Outcome_through_Iterative_TeachingLearning_Methodology). 
+**“Improving Learning Outcome through Iterative Teaching/Learning Methodology.”** *ResearchGate*, [https://www.researchgate.net/publication/315885389_Improving_Learning_Outcome_through_Iterative_TeachingLearning_Methodology](https://www.researchgate.net/publication/315885389_Improving_Learning_Outcome_through_Iterative_TeachingLearning_Methodology). 
 
 **Regassa Hunde, Bonsa, and Abraham Debebe Woldeyohannes.** “Future Prospects of Computer-Aided Design (CAD) – A Review from the Perspective of Artificial Intelligence (AI), Extended Reality, and 3D Printing.” *Results in Engineering*, vol. 14, June 2022, p. 100478. ScienceDirect, [https://doi.org/10.1016/j.rineng.2022.100478](https://doi.org/10.1016/j.rineng.2022.100478).
 
