@@ -196,5 +196,26 @@
   });
 </script>
   -->
+<script>
+  // Adjust scroll position to avoid overlap with sticky header
+  document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+    anchor.addEventListener('click', function (e) {
+      e.preventDefault(); // Prevent default anchor behavior
+
+      // Get the target element based on the href
+      const targetId = this.getAttribute('href').substring(1);
+      const targetElement = document.getElementById(targetId);
+
+      // Get the header height dynamically
+      const headerHeight = document.querySelector('header').offsetHeight;
+      
+      // Scroll to the target element minus the header height
+      window.scrollTo({
+        top: targetElement.offsetTop - headerHeight, 
+        behavior: 'smooth' // Smooth scroll effect
+      });
+    });
+  });
+</script>
 </body>
 </html>
