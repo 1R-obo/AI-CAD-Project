@@ -35,9 +35,12 @@
 &nbsp;&nbsp;&nbsp;&nbsp;A survey was distributed to participants. The data showed consistent improvement, with overall positive feedback regarding the tutorial as well as the experience of working with AI. The target goal for object-making time was 30 minutes or less, and every participant met the goal, with time ranging from 7 to 30 minutes. Most participants began with a self-assessed experience level of 1 from a scale of 1 through 5, and ended with a confidence level ranging 3 to 5 on a scale of 1 through 5. Responses indicated that the tutorial was helpful and provided a necessary starting point; without it, learning CAD would feel difficult and discouraging.
 
 ## Example Low-Poly Trees from the Survey
-|  |  |  |
-|---|---|---|
-| **ExampleLow-Poly Tree 1** <br><img src="https://raw.githubusercontent.com/1R-obo/AI-CAD-Project/main/images/lowpolytree1.jpg" width="300"/> | **Example Low-Poly Tree 2** <br><img src="https://raw.githubusercontent.com/1R-obo/AI-CAD-Project/main/images/lowpolytree2.png" width="300"/> | **Example Low-Poly Tree 3** <br><img src="https://raw.githubusercontent.com/1R-obo/AI-CAD-Project/main/images/lowpolytree3.PNG" width="300"/> |
+
+| **Example Low-Poly Tree 1** | **Example Low-Poly Tree 2** | **Example Low-Poly Tree 3** |
+|-----------------------------|-----------------------------|-----------------------------|
+| <img src="https://raw.githubusercontent.com/1R-obo/AI-CAD-Project/main/images/lowpolytree1.jpg" width="300"/> | <img src="https://raw.githubusercontent.com/1R-obo/AI-CAD-Project/main/images/lowpolytree2.png" width="300"/> | <img src="https://raw.githubusercontent.com/1R-obo/AI-CAD-Project/main/images/lowpolytree3.PNG" width="300"/> |
+| **Example Low-Poly Tree 1** | **Example Low-Poly Tree 2** | **Example Low-Poly Tree 3** |
+
 
 
 ## Analysis: 
