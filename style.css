@@ -154,3 +154,8 @@ section h2 {
 #tutorial h3 {
   text-align: center;
 }
+
+/* Offset the scroll position to account for sticky header */
+section {
+  scroll-margin-top: 120px; /* adjust if your header is taller/shorter */
+}
