@@ -54,10 +54,10 @@
 | <img src="https://raw.githubusercontent.com/1R-obo/AI-CAD-Project/main/images/lowpolytree1.jpg" width="300"/> | <img src="https://raw.githubusercontent.com/1R-obo/AI-CAD-Project/main/images/lowpolytree2.png" width="300"/> | <img src="https://raw.githubusercontent.com/1R-obo/AI-CAD-Project/main/images/lowpolytree3.PNG" width="300"/> |
 
 ## Analysis: 
-&nbsp;&nbsp;&nbsp;&nbsp;The results of the survey suggest that the integration of AI, specifically ChatGPT, as a tutoring too was shown to be beneficial in participants’ modeling, and was well-recieved by participants.Most users reported a positive experience, suggesting that the project was successful in demonstrating the potential of AI to assist in educational contexts, in this case, CAD.
+&nbsp;&nbsp;&nbsp;&nbsp;The results of the survey suggest that the integration of AI, specifically ChatGPT, as a tutoring too was shown to be beneficial in participants’ modeling, and was well-received by participants.Most users reported a positive experience, suggesting that the project was successful in demonstrating the potential of AI to assist in educational contexts, in this case, CAD.
 
 **Ethical Considerations:**
-A significant portion of the survey focused on understanding the ethical implications of using AI as a tutor. The survey asked users: “What is your opinion on using ChatGPT as a tutor? Do you feel that relying on it for learning feels like 'cheating'? What are your thoughts on the ethical implications of using AI as a learning aid?”. The responses indicated that they did not percieve using ChatGPT as cheating, as long as it was being used appropriately.
+A significant portion of the survey focused on understanding the ethical implications of using AI as a tutor. The survey asked users: “What is your opinion on using ChatGPT as a tutor? Do you feel that relying on it for learning feels like 'cheating'? What are your thoughts on the ethical implications of using AI as a learning aid?”. The responses indicated that they did not perceive using ChatGPT as cheating, as long as it was being used appropriately.
 
 Here are a few notable responses:
 
@@ -67,7 +67,7 @@ Here are a few notable responses:
 
 &nbsp;&nbsp;- “I think that Chatgpt can be used in either good or bad ways and these ways could both contribute to our knowledge and help us in things. I think that its not really cheating if your just asking it for help on explaining how to do something.”
 
-&nbsp;&nbsp;&nbsp;&nbsp;The responses from the survey display that the use of ChatGPT is moral, as long as it is used with proper intentions and activley is helping the user. It is worth noting that some responses highlight the important of situations where educators set boundaries on AI usage, but as long as ChatGPT is used as a learning aid and not a shortcut to bypass learning, it is morally acceptable.
+&nbsp;&nbsp;&nbsp;&nbsp;The responses from the survey display that the use of ChatGPT is moral, as long as it is used with proper intentions and actively helps the user. It is worth noting that some responses highlight the important of situations where educators set boundaries on AI usage, but as long as ChatGPT is used as a learning aid and not a shortcut to bypass learning, it is morally acceptable.
 
 &nbsp;&nbsp;&nbsp;&nbsp;While the results of this project demonstrate the potential of AI as an educational tool, several areas for further research should be explored to deepen our understanding:
 
