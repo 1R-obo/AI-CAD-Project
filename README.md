@@ -89,7 +89,7 @@ Future research could focus on enhancing AI’s ability to understand specific c
 
 &nbsp;&nbsp;&nbsp;&nbsp;The results of the survey reveal AI assisted learning is beneficial in one's journey to learn CAD, especially a beginner, offering a more accessible and supportive learning environment. Ethically, the use of ChatGPT was accepted by users, while used appropriately and as a learning tool. This suggests AI can be a valuable educational resource, if used responsibly and in a structured manner.
 
-&nbsp;&nbsp;&nbsp;&nbsp;Looking forward, other research could explore AI-powered educational tools and the long term impact of AI on users' learning habits. Additionally, improvements in the AI's ability to provide effective guidance could further improve the learning experience. Ultimately, this project supports the idea that AI can play a role in making complex designs for CAD more apprachable and easier to learn for beginners.
+&nbsp;&nbsp;&nbsp;&nbsp;Looking forward, other research could explore AI-powered educational tools and the long term impact of AI on users' learning habits. Additionally, improvements in the AI's ability to provide effective guidance could further improve the learning experience. Ultimately, this project supports the idea that AI can play a role in making complex designs for CAD more approachable and easier to learn for beginners.
 
 
 ## References:
