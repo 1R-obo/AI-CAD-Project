@@ -61,11 +61,11 @@ A significant portion of the survey focused on understanding the ethical implica
 
 Here are a few notable responses:
 
-&nbsp;&nbsp;- “Using chatgpt is fine as long as you are using it as a learning look. As for ethics, it's just another way to learn skills so I don't think it qualifies as cheating”
+&nbsp;&nbsp;- “Using ChatGPT is fine as long as you are using it as a learning look. As for ethics, it's just another way to learn skills so I do not think it qualifies as cheating”
 
 &nbsp;&nbsp;- “I feel like it helps and does not feel like cheating since you’re leveraging additional information to learn. Ethically, if it’s allowed then it should be good to use, however, if we are told not to use it, then it would be unethical.”
 
-&nbsp;&nbsp;- “I think that Chatgpt can be used in either good or bad ways and these ways could both contribute to our knowledge and help us in things. I think that its not really cheating if your just asking it for help on explaining how to do something.”
+&nbsp;&nbsp;- “I think that ChatGPT can be used in either good or bad ways and these ways could both contribute to our knowledge and help us in things. I think that it is not really cheating if you are just asking it for help on explaining how to do something.”
 
 &nbsp;&nbsp;&nbsp;&nbsp;The responses from the survey display that the use of ChatGPT is moral, as long as it is used with proper intentions and actively helps the user. It is worth noting that some responses highlight the important of situations where educators set boundaries on AI usage, but as long as ChatGPT is used as a learning aid and not a shortcut to bypass learning, it is morally acceptable.
 
